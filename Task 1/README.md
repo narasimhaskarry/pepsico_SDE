@@ -16,4 +16,4 @@ It integrates with existing predictive shipping pipelines and is built with scal
 
 The system is deployed on Microsoft Azure.
 
-<img src="Task 1/WhatsApp Image 2025-04-23 at 19.57.05_ff4857f8.jpg" alt="Alt Text" width="300"/>" 
+<img src="https://github.com/narasimhaskarry/pepsico_SDE/blob/5241a5f343cf808e456f99906db03ab07f97ac99/Task%201/systemv.jpg" alt="Alt Text" width="300"/>" 
