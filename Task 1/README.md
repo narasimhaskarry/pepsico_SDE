@@ -16,4 +16,4 @@ It integrates with existing predictive shipping pipelines and is built with scal
 
 The system is deployed on Microsoft Azure.
 
-<img src="<img src="path/to/image.png" alt="Alt Text" width="300"/>" alt="Alt Text" width="300"/>
+<img src="Task 1/WhatsApp Image 2025-04-23 at 19.57.05_ff4857f8.jpg" alt="Alt Text" width="300"/>" 
