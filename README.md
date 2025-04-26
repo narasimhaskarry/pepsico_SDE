@@ -1,7 +1,2 @@
-## 📋 Trello Project Board
-
-Here’s how our project is organized in Trello:
-
-![Trello Board](./trello-board.png)
-
-🔗 [Live Trello Board](https://trello.com/b/TrqR8uzC/pepsico)
+# Task 3 model answer
+This Repo contains an example answer for task 3 of the PepsiCo Software Development Program by Forage
